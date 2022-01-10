@@ -1,47 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Case</title>
-  <style>
-    main>section{
-      position: relative;
-      border: 2px solid red;
-      height: 300px;
-    }
-    main > section > div {
-      position: absolute;
-      border: 2px solid red;
-      height: 100%;
-      width: calc(100% / 4);
-    }
+    <meta charset="UTF-8">
+    <title>Assignment 03</title>
+    <link href="assets/css/normalize.css" rel="stylesheet">
+    <style>
+        section {
+            position: relative;
+            height: 100vh;
+        }
 
-    main > section >div:nth-child(1) {
-      left: 0;
-    }
+        div {
+            border-radius: 100%;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+        }
 
-    main > section >  div:nth-child(2) {
-      left: calc(100% / 4);
-    }
+        body {
+            position: relative;
+        }
 
-    main > section > div:nth-child(3) {
-      left: calc((100% / 4) * 2);
-    }
-    main > section > div:nth-child(4) {
-      left: calc((100% / 4) * 3);
-    }
-  </style>
+        body > div {
+            position: fixed;
+            height: 200px;
+            width: 200px;
+            border: 15px solid red;
+            z-index: 10;
+        }
+
+        body > div > div {
+            position: fixed;
+            height: 230px;
+            width: 230px;
+            border: 15px solid grey;
+            z-index: 8;
+        }
+        section > div {
+            position: absolute;
+            height: 200px;
+            width: 200px;
+            z-index: 5;
+        }
+        body > section > div > p {
+            text-align: center;
+            padding-top: 55px;
+            color: white;
+            font-family:  "Times New Roman", monospace;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        body > section:nth-child(2) > div {
+            background: purple;
+        }
+
+        body > section:nth-child(3) > div {
+            background: #0c8ab4;
+        }
+
+        body > section:nth-child(4) > div {
+            background: #ee3776;
+        }
+    </style>
 </head>
 <body>
-
-<main>
-  <section>
+<div>
     <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-  </section>
-</main>
-
+</div>
+<section>
+    <div><p>Hello</p></div>
+</section>
+<section>
+    <div><p>Welcome to</p></div>
+</section>
+<section>
+    <div><p>Institute of Software Engineering</p></div>
+</section>
 </body>
 </html>
