@@ -24,3 +24,9 @@
 ![Screenshot](assets/images/Screenshot%202022-01-13%20082045.jpg)
 ###### Case 4
 ![Screenshot](assets/images/Screenshot%202022-01-13%20083359.jpg)
+
+#### Transitions
+###### Case 1
+![Screenshot](assets/images/Screenshot%202022-01-13%20083537.jpg)
+###### Case 2
+![Screenshot](assets/images/Screenshot%202022-01-13%20083642.jpg)
