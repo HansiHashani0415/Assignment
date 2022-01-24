@@ -17,26 +17,30 @@
 ### screenshots of assignments
 #### Layouts 
 ###### Case 1 
-![Screenshot](assets/images/Screenshot%202022-01-13%20081530.jpg)
+![Screenshot](assets/images/layoutsCase1.jpg)
 ###### Case 2
-![Screenshot](assets/images/Screenshot%202022-01-13%20081831.jpg)
+![Screenshot](assets/images/layoutsCase2.jpg)
 ###### Case 3
-![Screenshot](assets/images/Screenshot%202022-01-13%20082045.jpg)
+![Screenshot](assets/images/layoutsCase3.jpg)
 ###### Case 4
-![Screenshot](assets/images/Screenshot%202022-01-13%20083359.jpg)
+![Screenshot](assets/images/layoutsCase4.jpg)
 
 #### Transitions
 ###### Case 1
-![Screenshot](assets/images/Screenshot%202022-01-13%20083537.jpg)
+![Screenshot](assets/images/transitionsCase1.jpg)
 ###### Case 2
-![Screenshot](assets/images/Screenshot%202022-01-13%20083642.jpg)
+![Screenshot](assets/images/transitionsCase2.jpg)
 
 #### Animations
 ###### Case 1
-![Screenshot](assets/images/Screenshot%202022-01-13%20083827.jpg)
+![Screenshot](assets/images/animationsCase1.jpg)
 ###### Case 2
-![Screenshot](assets/images/Screenshot%202022-01-14%20133807.jpg)
+![Screenshot](assets/images/animationsCase2.jpg)
 ###### Case 3
-![Screenshot](assets/images/Screenshot%202022-01-14%20133942.jpg)
+![Screenshot](assets/images/animationsCase3.jpg)
 ###### Case 4
-![Screenshot](assets/images/Screenshot%202022-01-13%20084923.jpg)
+![Screenshot](assets/images/animationsCase4.jpg)
+
+#### CSS Frameworks
+###### BootstrapPOS
+![Screenshot](assets/images/cssFrameworkAssignment.jpg)
