@@ -18,3 +18,9 @@
 #### Layouts 
 ###### Case 1 
 ![Screenshot](assets/images/Screenshot%202022-01-13%20081530.jpg)
+###### Case 2
+![Screenshot](assets/images/Screenshot%202022-01-13%20081831.jpg)
+###### Case 3
+![Screenshot](assets/images/Screenshot%202022-01-13%20082045.jpg)
+###### Case 4
+![Screenshot](assets/images/Screenshot%202022-01-13%20083359.jpg)
