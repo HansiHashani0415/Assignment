@@ -30,3 +30,13 @@
 ![Screenshot](assets/images/Screenshot%202022-01-13%20083537.jpg)
 ###### Case 2
 ![Screenshot](assets/images/Screenshot%202022-01-13%20083642.jpg)
+
+#### Animations
+###### Case 1
+![Screenshot](assets/images/Screenshot%202022-01-13%20083827.jpg)
+###### Case 2
+![Screenshot](assets/images/Screenshot%202022-01-14%20133807.jpg)
+###### Case 3
+![Screenshot](assets/images/Screenshot%202022-01-14%20133942.jpg)
+###### Case 4
+![Screenshot](assets/images/Screenshot%202022-01-13%20084923.jpg)
